@@ -1,0 +1,12 @@
+[
+null,
+{"battlerName":"","characterIndex":0,"characterName":"$unasaka2","classId":4,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"うなさかえー2","id":1,"initialLevel":1,"maxLevel":99,"name":"海坂","nickname":"好感度/V[7]","note":"","profile":"長著兔耳朵的精靈。\n不知道哪裡像是精靈了。為什麼是兔耳啊・・・？","traits":[{"code":43,"dataId":8,"value":1}]},
+{"battlerName":"Actor1_1","characterIndex":0,"characterName":"主人公1","classId":5,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","id":2,"initialLevel":1,"maxLevel":99,"name":"主人公","nickname":"普通人","note":"","profile":"享受著快意人生的人類。\n實際上是個大色狼。","traits":[{"code":43,"dataId":34,"value":1}]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":3,"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"$iroha2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"イロハ","id":4,"initialLevel":1,"maxLevel":99,"name":"彩华","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":5,"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":6,"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":7,"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":8,"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":2,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"グラブラ","id":9,"initialLevel":1,"maxLevel":99,"name":"古菈布菈","nickname":"","note":"","profile":"","traits":[{"code":43,"dataId":41,"value":1},{"code":43,"dataId":42,"value":1},{"code":43,"dataId":43,"value":1},{"code":43,"dataId":44,"value":1}]}
+]
